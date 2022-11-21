@@ -26,7 +26,8 @@
   
 <div align="center">
   <a href = "mailto:maybsalvalaio@gmail.com"><img height="35" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maysa-b-salvalaio/" target="_blank"><img height="35" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/maysa-b-salvalaio/" target="_blank"><img height="35" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://dev.to/https://dev.to/maysab" target="_blank"><img src="https://img.shields.io/badge/dev.to-685EA9?.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt=devto height="35" /></a>
 </div>
     
   ##

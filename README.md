@@ -30,7 +30,3 @@
   <a href="https://www.linkedin.com/in/maysa-b-salvalaio/" target="_blank"><img height="35" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://dev.to/maysab" target="_blank"><img src="https://img.shields.io/badge/dev.to-685EA9?.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt=devto height="35" /></a>
 </div>
-    
-  ##
-  
-<img align="center" alt="apresentation-cover" src="https://user-images.githubusercontent.com/99998543/168403365-9582a486-8dbd-4fad-8881-ad5f22f9d5e7.png" />
